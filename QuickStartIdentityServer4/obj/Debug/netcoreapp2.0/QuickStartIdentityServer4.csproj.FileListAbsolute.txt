@@ -1,0 +1,12 @@
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\bin\Debug\netcoreapp2.0\QuickStartIdentityServer4.deps.json
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\bin\Debug\netcoreapp2.0\QuickStartIdentityServer4.runtimeconfig.json
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\bin\Debug\netcoreapp2.0\QuickStartIdentityServer4.runtimeconfig.dev.json
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\bin\Debug\netcoreapp2.0\QuickStartIdentityServer4.dll
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\obj\Debug\netcoreapp2.0\QuickStartIdentityServer4.csprojResolveAssemblyReference.cache
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\obj\Debug\netcoreapp2.0\QuickStartIdentityServer4.csproj.CoreCompileInputs.cache
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\obj\Debug\netcoreapp2.0\QuickStartIdentityServer4.AssemblyInfoInputs.cache
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\obj\Debug\netcoreapp2.0\QuickStartIdentityServer4.AssemblyInfo.cs
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\bin\Debug\netcoreapp2.0\QuickStartIdentityServer4.pdb
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\obj\Debug\netcoreapp2.0\QuickStartIdentityServer4.dll
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\obj\Debug\netcoreapp2.0\QuickStartIdentityServer4.pdb
+C:\Users\A0740038\source\repos\QuickStartIdentityServer4\QuickStartIdentityServer4\bin\Debug\netcoreapp2.0\nlog.config
